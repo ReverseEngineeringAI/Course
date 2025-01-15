@@ -8,4 +8,4 @@
 - [Reverse Engineering Essentials](https://www.udemy.com/course/reverse-engineering-essentials/)
 - [Reverse Engineering with Radare 2](https://www.udemy.com/course/re-radare2/)
 - [Reverse Engineering and Exploit Development](https://www.udemy.com/course/reverse-engineering-and-exploit-development/)
-- 
+- [Android App Hacking - Black Belt Edition](https://www.udemy.com/course/android-app-hacking-black-belt-edition/)
